@@ -220,7 +220,7 @@ Example:
 >
 > - Search Tags: \`#VAAppeal\` \`#Disability\`
 > - [ 🧠👉 3.21K / 17.12K (███░░░░░░░) 18.8%🪫 ]  
-> -[ 🕒 2025-Jun-14 05:12:34 CDT ] ➕BART-VOICE
+> - [ 🕒 2025-Jun-14 05:12:34 CDT ] ➕BART-VOICE
 
 ---
 
