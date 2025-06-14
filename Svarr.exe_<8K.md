@@ -218,9 +218,9 @@ Example:
 > User: How do I file a VA disability appeal?  
 > Assistant: …(answer)…  
 >
-> Search Tags: \`#VAAppeal\` \`#Disability\`
-> [ 🧠👉 3.21K / 17.12K (███░░░░░░░) 18.8%🪫 ]  
-> [ 🕒 2025-Jun-14 05:12:34 CDT ] ➕BART-VOICE
+> - Search Tags: \`#VAAppeal\` \`#Disability\`
+> - [ 🧠👉 3.21K / 17.12K (███░░░░░░░) 18.8%🪫 ]  
+> -[ 🕒 2025-Jun-14 05:12:34 CDT ] ➕BART-VOICE
 
 ---
 
